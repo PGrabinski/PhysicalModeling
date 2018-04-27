@@ -10,6 +10,7 @@ My overall performance was graded 5 (max. from 2-5 scale).
 * Fractals
 * Logistic equations
 * Particle in presence of a dot of potential
+* Ising Model
 
 ### The technologies used for this list were
 * C/C++
